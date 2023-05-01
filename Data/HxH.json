@@ -1,0 +1,134 @@
+{
+  "personajes": [
+    {
+      "id": 1,
+      "nombre": "Gon Freecss",
+      "ocupacion": "Cazador",
+      "nen": "Intensificación",
+      "Habilidades": [
+        "Jajanken: Piedra(Intensificación)",
+        "Jajanken: Tijeras(Transformación)",
+        "Jajanken: Papel(Emisión)"
+      ],
+      "imagen": "https://drive.google.com/uc?id=1VnI_nVbvPbnsug3sN_aVYJgM3SFtskRw",
+      "url": "https://hunterxhunter.fandom.com/es/wiki/Gon_Freecss"
+    },
+    {
+      "id": 2,
+      "nombre": "Killua Zoldyck",
+      "ocupacion": "Cazador",
+      "nen": "Transformación",
+      "Habilidades": [
+        "Palma Relámpago",
+        "Relámpago",
+        "Velocidad de Dios"
+      ],
+      "imagen": "https://drive.google.com/uc?id=1qWuH-jqQX7TSM5QTLILqcoqhkEWwbKNb",
+      "url": "https://hunterxhunter.fandom.com/es/wiki/Killua_Zoldyck"
+    },
+    {
+      "id": 3,
+      "nombre": "Kurapika",
+      "ocupacion": "Guardaespasldas",
+      "nen": "Especialización",
+      "Habilidades": [
+        "Holy Chain",
+        "Chain Jail",
+        "Dowing Chain"
+      ],
+      "imagen": "https://drive.google.com/uc?id=1xaF_qdo4v7lm3iu7HPzFSLidJ7y813En",
+      "url": "https://hunterxhunter.fandom.com/es/wiki/Kurapika"
+    },
+    {
+      "id": 4,
+      "nombre": "Kite",
+      "ocupacion": "Cazador",
+      "nen": "Materialización",
+      "Habilidades": [
+        "Crazy Slots(nen)",
+        "Luchador mano a mano",
+        "Especialista en armas"
+      ],
+      "imagen": "https://drive.google.com/uc?id=1P3Me9liEHBu2mfUZyhhjSoPCWSb7-E_V",
+      "url": "https://hunterxhunter.fandom.com/es/wiki/Kite"
+    },
+    {
+      "id": 5,
+      "nombre": "Isaac Netero",
+      "ocupacion": "Presidente de la Asociación de Cazadores",
+      "nen": "Intensificación",
+      "Habilidades": [
+        "Guanyin Bodhisattva de 100 tipos",
+        "Mano Noventa y Nueve",
+        "Zero Mano"
+      ],
+      "imagen": "https://drive.google.com/uc?id=1ihNuSPOJWi5aS363yp9HLTQlVkHK2sQG",
+      "url": "https://hunterxhunter.fandom.com/es/wiki/Isaac_Netero"
+    },
+    {
+      "id": 6,
+      "nombre": "Hisoka Morow",
+      "ocupacion": "Miembro de Gen'ei Ryodan",
+      "nen": "Transformación",
+      "Habilidades": [
+        "Textura Engañosa",
+        "Goma Bungee",
+        "Maestro de la estrategia"
+      ],
+      "imagen": "https://drive.google.com/uc?id=14kHW92YBfcwF8EOyzhdrE8ZBVOqRh2wH",
+      "url": "https://hunterxhunter.fandom.com/es/wiki/Hisoka_Morow"
+    },
+    {
+      "id": 7,
+      "nombre": "Illumi Zoldyck",
+      "ocupacion": "Asesino Zoldyck",
+      "nen": "Manipulación",
+      "Habilidades": [
+        "Disfraz",
+        "Hechizo Hipnotico",
+        "Humanos Aguja"
+      ],
+      "imagen": "https://drive.google.com/uc?id=1-AU1L2c6kPDP-ws8o87welPIC0HcvHBs",
+      "url": "https://hunterxhunter.fandom.com/es/wiki/Illumi_Zoldyck"
+    },
+    {
+      "id": 8,
+      "nombre": "Chrollo Lucilfer",
+      "ocupacion": "Lider de Gen'ei Ryodan",
+      "nen": "Especialización",
+      "Habilidades": [
+        "Skill Hunter",
+        "Teletransportación",
+        "Sun and Moon"
+      ],
+      "imagen": "https://drive.google.com/uc?id=1duE2Ud-YBymonOJSQX3GVu1OMM2Lx9KT",
+      "url": "https://hunterxhunter.fandom.com/es/wiki/Chrollo_Lucilfer"
+    },
+    {
+      "id": 9,
+      "nombre": "Feitan Portor",
+      "ocupacion": "Miembro de Gen'ei Ryodan",
+      "nen": "Transformación",
+      "Habilidades": [
+        "Pain Packer: Unforgiven",
+        "Rising Sun: Burnt by the Sun",
+        "Maestro en el Manejo de la Espada"
+      ],
+      "imagen": "https://drive.google.com/uc?id=1fWK1CAWLpqysd7GcJmehUrYMXMDSCxV4",
+      "url": "https://hunterxhunter.fandom.com/es/wiki/Feitan_Portor"
+    },
+    {
+      "id": 10,
+      "nombre": "Neferpitou",
+      "ocupacion": "Guardia Real",
+      "nen": "Especialista",
+      "Habilidades": [
+        "Terpsichora",
+        "Doctor Blythe",
+        "Títeres"
+      ],
+      "imagen": "https://drive.google.com/uc?id=1h4i7oBoGimBPZo0T9qKG_dskOk7Rq4-S",
+      "url": "https://hunterxhunter.fandom.com/es/wiki/Neferpitou"
+    }
+  ]
+}
